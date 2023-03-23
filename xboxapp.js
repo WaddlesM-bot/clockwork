@@ -1,7 +1,5 @@
 function start() {
   
-  ////MADE FOR VERSION 0.14.0 SCRIPT SYSTEM////
-
   ////CONFIG////
 
   var link = "https://frosted-secret-frown.glitch.me/uv/service/hvtrs8%2F-wuw%2Cx%60oz.aoo%2Fgn%2Fuq%2Frlcy"; // link to app webpage
